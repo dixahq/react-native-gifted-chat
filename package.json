@@ -1,6 +1,6 @@
 {
   "name": "@dixa/react-native-gifted-chat",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "The most complete chat UI for React Native",
   "main": "index.js",
   "repository": {
